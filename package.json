@@ -1,0 +1,19 @@
+{
+  "name": "bslinechatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "lodash": "^4.17.4",
+    "node-wit": "^4.2.0",
+    "request": "^2.79.0"
+  }
+}
