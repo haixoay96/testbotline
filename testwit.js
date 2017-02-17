@@ -1,4 +1,6 @@
-const {Wit, log} = require('node-wit');
+const Wit= require('node-wit').Wit;
+const log = require('node-wit').log;
+
 const Event = require('events').EventEmitter;
 var data = require('./store.js').data;
 var _ = require('lodash');
